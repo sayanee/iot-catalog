@@ -1,7 +1,7 @@
 # Microcontrollers
 
-| Board | Speed | Digital/Analog I/O pins | Processor | Memory | Voltage | Comms | Software
-| --- | --- | --- | --- | --- | --- | ---
+| Board | Speed | Digital Analog I/O pins | Processor | Memory | Voltage | Comms | Software
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | [Adafruit Flora](https://www.adafruit.com/product/659) | `8 MHz` | 8 digital<br>3 PWM<br>4 analog | 8-bit<br>ATmega32u4 | `32KB` | 	`3.5-16V` | nil | Arduino
 | [Arduino UNO](https://www.arduino.cc/en/Main/ArduinoBoardUno) | `16MHz` | 14 digital<br>6 PWM<br>6 analog | 8-bit<br>ATMega328PU | `32KB` | `5V` | nil | Arduino
 | [Arduino Yun](https://www.arduino.cc/en/Main/ArduinoBoardYun) | `16MHz` | 20 digital<br>7 PWM<br>12 analog | 8-bit<br>ATMega328PU | `32KB` | `5V` | WiFi: MIPS Atheros AR9331 | Arduino
