@@ -2,6 +2,8 @@
 
 1. **6LoWPAN** - IPv6 over Low power Wireless Personal Area Networks
 - **MANET** Mobile ad-hoc network
+- **LPN** Low power network
+- **LPWAN** Low-Power Wide-Area Network
 - Types of Networks
   - **PAN** personal area network
   - **LAN** local area network
