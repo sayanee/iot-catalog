@@ -3,7 +3,7 @@
 Alliances and standard bodies
 
 | Organization | Description | Category |
-| --- | --- |
+| --- | --- | --- |
 | AIOTI
 | AllSeen Alliance
 | Bluetooth Special Interest Group
