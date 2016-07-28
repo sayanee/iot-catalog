@@ -47,3 +47,4 @@
 #### Reference
 
 - [Getting started with nRF51 development on Mac OS X](https://devzone.nordicsemi.com/blogs/22/getting-started-with-nrf51-development-on-mac-os-x)
+- [Flashing to nRF52](https://devzone.nordicsemi.com/question/65980/flashing-to-nrf52/)
