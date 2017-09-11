@@ -15,7 +15,7 @@ Short to medium range
 Long range / cellular
 
 | Name  | Standard | Data Rate
-| --- | --- | --- | ---
+| --- | --- | ---
 | 1G |  | `2 kbps`
 | 2G | GSM, GPRS |`14.4 - 64 kpbs`
 | 2.5G | EDGE | |
@@ -35,7 +35,7 @@ Long range / cellular
 Most LP WAN technologies are physical layer implementations only
 
 | OSI | Physical | LoRaWAN | SigFox
-| --- | --- | --- | --- | ---
+| --- | --- | --- | ---
 | Application | Application | undefined | undefined
 | Presentation | Application | undefined | undefined
 | Session |  Application | undefined | undefined
@@ -49,7 +49,7 @@ Most LP WAN technologies are physical layer implementations only
 WiFi is indicated as a comparison
 
 | | WiFi | Z-Wave | ZigBee | Thread | BLE
-| --- | --- | --- | --- | --- | --- | ---
+| --- | --- | --- | --- | --- | ---
 | PHY / MAC | IEEE 802.11.1 | ITU-T G.9959 | IEEE 802.15.4 | IEEE 802.15.4 | IEEE 802.15.1
 | Frequency band | `2.4GHz` | `900MHz` | `2.4GHz` | `2.4GHz` | `2.4GHz`
 | Topology | Star | Mesh | Mesh | Mesh | Scatternet
@@ -58,7 +58,7 @@ WiFi is indicated as a comparison
 ## TCP / IP vs 6LoWPAN
 
 | OSI | Physical | TCP/IP | 6LoWPAN
-| --- | --- | --- | --- | ---
+| --- | --- | --- | ---
 | Application | Application | HTTP, RTP | application
 | Presentation | Application |
 | Session |  Application |
