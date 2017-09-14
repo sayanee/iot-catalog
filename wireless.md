@@ -69,5 +69,5 @@ WiFi is indicated as a comparison
 
 ## References
 
-1. [11 Internet of Things (IoT) Protocols You Need to Know About](http://www.rs-online.com/designspark/electronics/knowledge-item/eleven-internet-of-things-iot-protocols-you-need-to-know-about)
+- [11 Internet of Things (IoT) Protocols You Need to Know About](http://www.rs-online.com/designspark/electronics/knowledge-item/eleven-internet-of-things-iot-protocols-you-need-to-know-about)
 - [Smart home protocol war](http://www.iot-now.com/2015/08/10/35653-the-smart-home-radio-protocols-war/)
